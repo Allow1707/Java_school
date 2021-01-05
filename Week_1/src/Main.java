@@ -1,4 +1,5 @@
-public class main {
+
+public class Main {
     public static void main(String[] arg){
         int[] a = {1, 2, 6, 9, 10, 11, 22, 23, 34, 56, 66};
         System.out.println(binarySearch(a, 9, 0, a.length - 1));
